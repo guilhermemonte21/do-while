@@ -58,25 +58,30 @@ bool civil=false;
 
 while(civil==false)
 {
-    Console.WriteLine($"Informe o Estado civil do Usuario");
+    Console.WriteLine
+    (@$"Informe o Estado civil do Usuario
+    s-solteiro
+    c-Casado
+    v-viuvo
+    d-Divorciado");
     char relacao = char.Parse(Console.ReadLine());
 
     if(relacao=='s')
     {
         civil=true;
-        Console.WriteLine($"solteiro");
+        
         
     }
     else if(relacao=='c')
     {
         civil=true;
-        Console.WriteLine($"Casado");
+        
         
     }
     else if(relacao=='v')
     {
         civil=true;
-        Console.WriteLine($"viuvo");
+        
         
     }
     else if(
@@ -84,7 +89,7 @@ while(civil==false)
     )
     {
         civil=true;
-        Console.WriteLine($"Divorciado");
+       
         
     }
     else
