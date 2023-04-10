@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\bin\Debug\net7.0\tabuada 1 a 10.exe
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\bin\Debug\net7.0\tabuada 1 a 10.deps.json
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\bin\Debug\net7.0\tabuada 1 a 10.runtimeconfig.json
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\bin\Debug\net7.0\tabuada 1 a 10.dll
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\bin\Debug\net7.0\tabuada 1 a 10.pdb
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.dll
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\refint\tabuada 1 a 10.dll
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.pdb
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\tabuada 1 a 10.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\do-while\exercicios 06-04\tabuada 1 a 10\obj\Debug\net7.0\ref\tabuada 1 a 10.dll
