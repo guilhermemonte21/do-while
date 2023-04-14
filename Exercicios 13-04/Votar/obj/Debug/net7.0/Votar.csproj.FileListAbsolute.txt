@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\bin\Debug\net7.0\Votar.exe
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\bin\Debug\net7.0\Votar.deps.json
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\bin\Debug\net7.0\Votar.runtimeconfig.json
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\bin\Debug\net7.0\Votar.dll
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\bin\Debug\net7.0\Votar.pdb
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.dll
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\refint\Votar.dll
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.pdb
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\Votar.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\Exercicios 13-04\Votar\obj\Debug\net7.0\ref\Votar.dll

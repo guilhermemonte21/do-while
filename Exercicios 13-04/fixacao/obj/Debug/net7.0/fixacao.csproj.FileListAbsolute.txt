@@ -1,0 +1,15 @@
+C:\Users\6352573355\Desktop\fixacao\bin\Debug\net7.0\fixacao.exe
+C:\Users\6352573355\Desktop\fixacao\bin\Debug\net7.0\fixacao.deps.json
+C:\Users\6352573355\Desktop\fixacao\bin\Debug\net7.0\fixacao.runtimeconfig.json
+C:\Users\6352573355\Desktop\fixacao\bin\Debug\net7.0\fixacao.dll
+C:\Users\6352573355\Desktop\fixacao\bin\Debug\net7.0\fixacao.pdb
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.csproj.AssemblyReference.cache
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.AssemblyInfoInputs.cache
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.AssemblyInfo.cs
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.csproj.CoreCompileInputs.cache
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.dll
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\refint\fixacao.dll
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.pdb
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\fixacao.genruntimeconfig.cache
+C:\Users\6352573355\Desktop\fixacao\obj\Debug\net7.0\ref\fixacao.dll
